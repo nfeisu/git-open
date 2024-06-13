@@ -1,0 +1,66 @@
+[33mcommit cb79587a40c232e8b1312adb0fbca02e358832de[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 343effc dd2979f
+Author: nfeisu <eino.suni@tuni.fi>
+Date:   Thu Jun 13 09:39:37 2024 +0300
+
+    Merge https://course-gitlab.tuni.fi/git-course/basics-materials
+
+[33mcommit 343effc8d1cdad210310ccb829cb2686f1d9f354[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: nfeisu <eino.suni@tuni.fi>
+Date:   Wed Jun 12 16:11:43 2024 +0300
+
+    print works
+
+[33mcommit 63382582c38a88d3d9b3d6b8d3c2004b1330a9fc[m
+Author: Eino Suni (TAU) <eino.suni@tuni.fi>
+Date:   Wed Jun 12 14:59:33 2024 +0300
+
+    README created
+
+[33mcommit fd2a767f8b1661ade57e942f4b2662914694863d[m
+Author: Eino Suni (TAU) <eino.suni@tuni.fi>
+Date:   Wed Jun 12 14:55:15 2024 +0300
+
+    File created
+
+[33mcommit dd2979f9609ce45e6739a9e07b895342efa62956[m
+Author: Mikko Luhtasaari <mikko.luhtasaari@tuni.fi>
+Date:   Tue May 12 13:11:49 2020 +0300
+
+    Add file to test settings
+
+[33mcommit 4e6605f7f49a0c6632248c60145f2da46addc89a[m
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Mon Oct 21 02:47:54 2019 -0700
+
+    A simple test
+
+[33mcommit 07291091b01a983d256488357b263ddb087d0188[m
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Mon Oct 21 02:14:09 2019 -0700
+
+    Removed debug-prints
+
+[33mcommit dd8c56cede9b109c1df7bda13abc1b1b7b79ed0b[m
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Mon Oct 21 02:12:41 2019 -0700
+
+    Merge-sort
+
+[33mcommit b6fd9edcecad84d37e52e93a9acbd02233163316[m
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Mon Oct 21 01:47:04 2019 -0700
+
+    Strings to integers
+
+[33mcommit be5d6373836d9d693c1d9e1dffb518f9331e4ff8[m
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Mon Oct 21 01:41:24 2019 -0700
+
+    Basic input
+
+[33mcommit e1b91edb8eeeee33b43c93653e3419a14efedd5f[m
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Mon Oct 21 02:22:41 2019 -0700
+
+    Initial commit.
